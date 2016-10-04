@@ -25,9 +25,9 @@
 // The whole point is to not repeat code over and over
 // because one or two words need to be changed
 
-var boss = ['blue', 'yellow', 'red'];
+var boss = [ 'blue', 'yellow', 'red' ];
 
-for(var i = 0; i < boss.length; i++) {
+for( var i = 0; i < boss.length; i++ ) {
 
   var box = document.createElement('div');
 
