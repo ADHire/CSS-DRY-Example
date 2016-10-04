@@ -31,7 +31,7 @@
 
 /* This is way more clean, efficient, and makes your code way easier to read/edit */
 
- .fun {
+.fun {
   width: 50px;
   height: 50px;
   -ms-transform: rotate(20deg);
